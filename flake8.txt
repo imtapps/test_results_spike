@@ -1,0 +1,6 @@
+./demo/admin.py:1:1: F401 'admin' imported but unused
+./demo/models.py:1:1: F401 'models' imported but unused
+./demo/tests.py:19:1: C901 'DemoTests.test_zzz' is too complex (5)
+./demo/tests.py:19:5: E303 too many blank lines (2)
+./demo/tests.py:24:1: W391 blank line at end of file
+./demo/views.py:1:1: F401 'render' imported but unused
